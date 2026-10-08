@@ -1,5 +1,0 @@
-# app.py uses only the Python standard library (Python 3.8+), so nothing
-# is required to run it. The packages below are optional extras for the
-# Jupyter Notebook workflow and the Pandas interview question.
-notebook>=7.0
-pandas>=2.0
